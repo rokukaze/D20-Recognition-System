@@ -9,7 +9,12 @@
 --------------------------
 ### Technologies used
  - Python (3.6 currently)
+ - NumPy
+ - OpenCV
+ - Matplotlib
 --------------------------
 ### Installation of required programs, tools and technologies
-- To be updated
+- Install Anaconda at https://www.anaconda.com/download/
+  OR
+- Install Python and Visual Studio Code with addons shown above
 -------------------------------
